@@ -1,5 +1,4 @@
 #include <iostream>
-#include <algorithm>
 #include <random>
 
 using namespace std;
@@ -7,10 +6,11 @@ using namespace std;
 int main(int argc, char* argv[]) {
     random_device rd;
     mt19937 gen(rd());
+    uniform_int_distribution<int> uid(0, 50);
     
     char ch;
     auto guess = 0;
-    int secret = gen();
+    int secret = uid(gen);
     cout << "I've put forth the number. Can you guess it?\n";
     do {
         cin >> guess;
