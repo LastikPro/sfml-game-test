@@ -1,0 +1,13 @@
+﻿Сборка начата 28.07.2015 13:49:36.
+     1>Проект "D:\sfml-game-test\junk\First_SFML_Project\First_SFML_Project\First_SFML_Project\First_SFML_Project.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Visual Studio\VC\bin\CL.exe /c /I"C:\SFML-2.2 x32\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D SFML_DYNAMIC /D _MBCS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Visual Studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\sfml-game-test\junk\First_SFML_Project\First_SFML_Project\Debug\First_SFML_Project.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\SFML-2.2 x32\lib" "sfml-graphics-d.lib" "sfml-window-d.lib" "sfml-system-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\sfml-game-test\junk\First_SFML_Project\First_SFML_Project\Debug\First_SFML_Project.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\sfml-game-test\junk\First_SFML_Project\First_SFML_Project\Debug\First_SFML_Project.lib" /MACHINE:X86 Debug\main.obj
+         First_SFML_Project.vcxproj -> D:\sfml-game-test\junk\First_SFML_Project\First_SFML_Project\Debug\First_SFML_Project.exe
+     1>Сборка проекта "D:\sfml-game-test\junk\First_SFML_Project\First_SFML_Project\First_SFML_Project\First_SFML_Project.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.38
